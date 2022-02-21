@@ -1,6 +1,6 @@
 module.exports = {
   title: "jianmiets_library",
-  description: 'A simple and beautiful vuepress blog theme .',
+  description: 'A simple and beautiful blog theme .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -73,7 +73,7 @@ module.exports = {
     // 备案号
     record: 'xxxx',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2022'
     /**
      * 密钥 (if your blog is private)
      */
