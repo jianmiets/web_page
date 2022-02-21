@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
-      { text: 'ESP_CAM', link: 'https://192.168.43.39/', icon: 'reco-date' },
+      { text: 'ESP_CAM', link: '192.168.43.39', icon: 'reco-date' },
       { text: 'Docs', 
         icon: 'reco-message',
         items: [
