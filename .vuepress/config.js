@@ -1,5 +1,5 @@
 module.exports = {
-  title: "vuepress-theme-reco",
+  title: "jianmiets_library",
   description: 'A simple and beautiful vuepress blog theme .',
   dest: 'public',
   head: [
