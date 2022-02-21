@@ -46,7 +46,7 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '午后南杂1',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1156743527@qq.com',
         link: 'https://www.recoluan.com'
@@ -67,9 +67,9 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: 'jianmiets',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/avatar1.png',
     // 备案号
     record: 'xxxx',
     // 项目开始时间
