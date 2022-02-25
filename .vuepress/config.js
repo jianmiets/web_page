@@ -17,7 +17,7 @@ module.exports = {
           { text: 'vuepress-reco', link: '/docs/theme-reco/' }
         ]
       },
-      { text: 'Contact', 
+      { text: '链接', 
         icon: 'reco-message',
         items: [
           { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
