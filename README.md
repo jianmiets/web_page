@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: jianmiets 的博客
+tagline: 生死去来，棚头傀儡。一线断时，落落磊磊。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
