@@ -1,6 +1,6 @@
 module.exports = {
   title: "jianmiets_library",
-  description: 'A simple and beautiful blog theme .',
+  description: '目前没什么屌用的博客 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -9,9 +9,9 @@ module.exports = {
   theme: 'reco',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/', icon: 'reco-home' },
+      { text: '主页', link: '/', icon: 'reco-home' },
       { text: 'ESP_CAM', link: 'http://192.168.43.39', icon: 'reco-date' },
-      { text: 'Docs', 
+      { text: '文章', 
         icon: 'reco-message',
         items: [
           { text: 'vuepress-reco', link: '/docs/theme-reco/' }
@@ -37,23 +37,23 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: 'Category' // 默认 “分类”
+        text: '分类' // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: 'Tag' // 默认 “标签”
+        text: '标签' // 默认 “标签”
       }
     },
     friendLink: [
       {
         title: '午后南杂1',
-        desc: 'Enjoy when you can, and endure when you must.',
+        desc: '作者链接',
         email: '1156743527@qq.com',
         link: 'https://www.recoluan.com'
       },
       {
         title: 'vuepress-theme-reco',
-        desc: 'A simple and beautiful vuepress Blog & Doc theme.',
+        desc: '一个简单漂亮的vuepress博客主题.',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
